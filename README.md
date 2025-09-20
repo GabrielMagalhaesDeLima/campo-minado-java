@@ -9,8 +9,6 @@ O objetivo é aplicar conceitos de **Programação Orientada a Objetos (POO)**, 
 - Praticar **lógica de programação** e **estruturas de dados**.
 - Implementar conceitos de **POO** como encapsulamento, herança e polimorfismo.
 - Utilizar **JUnit** para criação de testes unitários.
-- Organizar o código em pacotes (`src` e `test`) seguindo boas práticas.
-- Simular um fluxo de desenvolvimento próximo ao ambiente profissional, com versionamento no **GitHub**.
 
 ---
 
