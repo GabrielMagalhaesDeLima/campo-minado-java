@@ -13,9 +13,9 @@ O objetivo é aplicar conceitos de **Programação Orientada a Objetos (POO)**, 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Java** (versão utilizada no curso)
+- **Java**
 - **JUnit 5** para testes unitários
-- **Eclipse IDE** (ou outra IDE compatível)
+- **Eclipse IDE** 
 - **Git & GitHub** para controle de versão
 
 ---
